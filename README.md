@@ -1,7 +1,8 @@
 # Links link
 
 ## Today
-* Learning to learn lesson 1
+* Review
+* Learning to learn lesson 2
 * [2048Demo](https://replit.com/@mrDonoghue/demo)
 * [2048?! repl](https://replit.com/team/CS9-Block2-2223/2048)
 * Pseudocode
