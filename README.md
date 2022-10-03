@@ -2,11 +2,12 @@
 
 ## Today
 * Review
-* Learning to learn lesson 2
-* [2048Demo](https://replit.com/@mrDonoghue/demo)
 * [2048?! repl](https://replit.com/team/CS9-Block2-2223/2048)
-* Pseudocode
+* [2048Demo](https://replit.com/@mrDonoghue/demo)
 * True-do code
+    - variables
+    - stubbing
+    - if and friend
 
 ## Old
 * [Join the replit course](https://replit.com/teams/join/ybrqajqhsnsjyvjjreekdizbjvjqobrp-CS9-Block2-2223)
