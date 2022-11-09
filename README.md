@@ -1,14 +1,13 @@
 # Links link
 
 ## Today
-* [Reflection](https://forms.gle/XcC9HYPFUiVVagtR6)
 * Review
 * [2048?! repl](https://replit.com/team/CS9-Block2-2223/2048) 
 * [2048Demo](https://replit.com/@mrDonoghue/demo)
 * True-do code
-    - if
-    - types
-    - while?
+    - fixing bug
+    - random
+* [Lab0](https://replit.com/team/CS9-Block2-2223/Lab0AreaCalc)
 ## Old
 * Sick day: 
     - [Repl](https://replit.com/team/CS9-Block2-2223/1010)
