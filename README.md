@@ -1,9 +1,15 @@
 # Links link
 
 ## Today
+* No Lab0 today!
+  * Lab0 due Friday Dec 9
+  * We'll have at least 15 minutes next class (Thursday Dec 8)
+* [Zork](http://www.web-adventures.org/cgi-bin/webfrotz?s=ZorkDungeon)
+* [TextGameLearn](https://replit.com/team/CS9-Block2-2223/TextGameLearn)
+
+## Old
 * [Lab0](https://replit.com/team/CS9-Block2-2223/Lab0AreaCalc)
 * [2048?! repl](https://replit.com/team/CS9-Block2-2223/2048) 
-## Old
 * Sick day: 
     - [Repl](https://replit.com/team/CS9-Block2-2223/1010)
     - [Instructions](https://docs.google.com/document/d/1YM1BvylVc83LdTTyuVw-0j_n9ECo5_G9Xx8_HshDZOU/edit?usp=sharing)
@@ -14,6 +20,8 @@
 ## Extra
 * [Extra0](TODO)
 
+
+# Old and optional
 
 If you want the instructions
 ```
