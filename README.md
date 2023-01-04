@@ -1,6 +1,7 @@
 # Links link
 
 ## Today
+* [Course repl page](https://replit.com/team/CS9-Block2-2223)
 * No Lab0 today!
   * Lab0 due Friday Dec 9
   * We'll have at least 15 minutes next class (Thursday Dec 8)
