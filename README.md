@@ -3,6 +3,22 @@
 ## Today
 * [TextGameLearn](https://replit.com/team/CS9-Block2-2223/TextGameLearn)
 
+
+## Starting code
+```python
+def starting_area():
+  print("trees in space")
+  while True:
+    print('Say "spaceship" or "chainsaw!"')
+    choice = input()
+    if choice == "spaceship":
+      spaceship()
+    elif choice == "chainsaw":
+      chainsaw()
+    else:
+      print("Try again!")
+
+```
 ## Old
 * [Lab0](https://replit.com/team/CS9-Block2-2223/Lab0AreaCalc)
 * [2048?! repl](https://replit.com/team/CS9-Block2-2223/2048) 
