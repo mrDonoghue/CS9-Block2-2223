@@ -1,4 +1,9 @@
 # Links link
+## Warmup
+* Two options:
+  - borrow [this code](files/textGame1.md) and write the `enter` function
+  - write one new area-style function in your own game
+
 
 ## Today
 * [TextGameLearn](https://replit.com/team/CS9-Block2-2223/TextGameLearn)
