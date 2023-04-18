@@ -1,6 +1,7 @@
 # Links link
 ## Warmup
 * [TextGameLists](https://replit.com/team/CS9-Block2-2223/TextGameLists)
+* [TextGameLab](https://replit.com/team/CS9-Block2-2223/TextGameLab) (for AI-powered approach)
 * Try to understand the code. See if you can make it so that interacting with the chair causes something to happen
 
 ## Old
